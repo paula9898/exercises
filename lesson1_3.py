@@ -22,7 +22,7 @@ askHeight = float(input("Please, enter me your height in cm: "))
 
 BMI = askWeight / (askHeight / 100) ** 2
 
-print("Your BMI is: ", BMI)
+print(f"Your BMI is:{BMI} ")
 
 # zad.9
 
