@@ -39,6 +39,17 @@ elif user_number1 == "nozyczki" and user_number2 == "papier":
 else:
     print("Błędne dane!!")
 
+#zad.2
+
+number = int(input("Enter a number: "))
+
+if number == 0 :
+    print(" You have entered number 0")
+elif number > 0 :
+    print( " Your number is bigger than 0")
+else:
+    print( "Your number is lower than 0 ")
+
 
 
 
