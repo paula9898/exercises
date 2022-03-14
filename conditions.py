@@ -88,8 +88,6 @@ import time
 
 import random
 
-
-
 orzeł_czy_reszka = int(input("Orzeł - o czy reszka - r: "))
 o = 1
 r = 0
